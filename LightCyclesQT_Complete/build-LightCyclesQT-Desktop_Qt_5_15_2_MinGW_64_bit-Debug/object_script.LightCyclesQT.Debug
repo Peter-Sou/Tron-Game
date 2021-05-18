@@ -1,0 +1,10 @@
+debug/aiplayer.o
+debug/main.o
+debug/mainwindow.o
+debug/player.o
+debug/scene.o
+debug/qrc_resources.o
+debug/moc_aiplayer.o
+debug/moc_mainwindow.o
+debug/moc_player.o
+debug/moc_scene.o

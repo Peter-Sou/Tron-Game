@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/tron-logo-font-download2.jpg</file>
+        <file>images/blackbackground.png</file>
+        <file>images/bluecycle.png</file>
+        <file>images/redcycle.png</file>
+        <file>images/bluecycle50.png</file>
+        <file>images/redcycle50.png</file>
+        <file>images/redcycle50down.png</file>
+        <file>images/redcycle50left.png</file>
+        <file>images/redcycle50right.png</file>
+        <file>images/redcycle50up.png</file>
+        <file>images/bluecycle50down.png</file>
+        <file>images/bluecycle50left.png</file>
+        <file>images/bluecycle50right.png</file>
+        <file>images/bluecycle50up.png</file>
+        <file>images/newbackground.png</file>
+        <file>images/icon.png</file>
+        <file>images/icon.ico</file>
+    </qresource>
+</RCC>

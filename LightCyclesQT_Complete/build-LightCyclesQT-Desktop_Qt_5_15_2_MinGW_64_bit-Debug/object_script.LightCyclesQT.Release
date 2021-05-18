@@ -1,0 +1,10 @@
+release/aiplayer.o
+release/main.o
+release/mainwindow.o
+release/player.o
+release/scene.o
+release/qrc_resources.o
+release/moc_aiplayer.o
+release/moc_mainwindow.o
+release/moc_player.o
+release/moc_scene.o
